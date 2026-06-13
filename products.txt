@@ -1,0 +1,10 @@
+Face Wash,Simple,355,250,UK
+
+Body Lotion,Vaseline,24,400,USA
+
+Night Cream,Olay,48,1200,USA
+
+Toner,Pixi,198,123,UK
+
+Lip Balm,Maybelline,300,150,USA
+

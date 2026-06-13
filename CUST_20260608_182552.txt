@@ -1,0 +1,15 @@
+=== WeCare Customer Receipt ===
+Customer: sita
+Date: 2026-06-08 18:25:52.173530
+
+Items:
+Item                 Brand            Paid  Free Total      Price       Cost
+---------------------------------------------------------------------------
+Face Wash            Simple              2     0     2     500.00    1000.00
+Night Cream          Olay                2     0     2    2400.00    4800.00
+---------------------------------------------------------------------------
+SUBTOTAL: NPR    5800.00
+VAT (13%): NPR     754.00
+GRAND TOTAL: NPR    6554.00
+
+Thank you for shopping at WeCare!
